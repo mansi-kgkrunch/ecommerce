@@ -1,0 +1,125 @@
+[{
+  "_id": {
+    "$oid": "62eb5101f030ed8bdda28bc4"
+  },
+  "block1": [
+    {
+      "status": "active",
+      "slider_name": "slider1",
+      "small_title": "Cold processed organic fruit",
+      "large_title": "Fresh Avocado",
+      "images": {
+        "name": "images-1659588865950.jpeg",
+        "path": "storage/public/images/Slider/images-1659588865950.jpeg"
+      },
+      "created_at": {
+        "$date": {
+          "$numberLong": "1659588865966"
+        }
+      },
+      "updated_at": {
+        "$date": {
+          "$numberLong": "1659588865966"
+        }
+      },
+      "_id": {
+        "$oid": "62eb5101f030ed8bdda28bc5"
+      }
+    },
+    {
+      "status": "active",
+      "slider_name": "slider2",
+      "small_title": "Healthy life with",
+      "large_title": "Natural Organic",
+      "images": {
+        "name": "images-1659614643264.jpeg",
+        "path": "storage/public/images/Slider/images-1659614643264.jpeg"
+      },
+      "created_at": {
+        "$date": {
+          "$numberLong": "1659614643550"
+        }
+      },
+      "updated_at": {
+        "$date": {
+          "$numberLong": "1659614643550"
+        }
+      },
+      "_id": {
+        "$oid": "62ebb5b35824658a050ef99f"
+      }
+    },
+    {
+      "status": "active",
+      "slider_name": "slider3",
+      "small_title": "Organic Products",
+      "large_title": "Life with Beauty",
+      "images": {
+        "name": "images-1659614705110.jpeg",
+        "path": "storage/public/images/Slider/images-1659614705110.jpeg"
+      },
+      "created_at": {
+        "$date": {
+          "$numberLong": "1659614705114"
+        }
+      },
+      "updated_at": {
+        "$date": {
+          "$numberLong": "1659614705114"
+        }
+      },
+      "_id": {
+        "$oid": "62ebb5f15824658a050ef9a3"
+      }
+    },
+    {
+      "status": "active",
+      "slider_name": "slider4",
+      "small_title": "Cold process organic",
+      "large_title": "Superior skin care",
+      "images": {
+        "name": "images-1659614726481.jpeg",
+        "path": "storage/public/images/Slider/images-1659614726481.jpeg"
+      },
+      "created_at": {
+        "$date": {
+          "$numberLong": "1659614726556"
+        }
+      },
+      "updated_at": {
+        "$date": {
+          "$numberLong": "1659614726556"
+        }
+      },
+      "_id": {
+        "$oid": "62ebb6065824658a050ef9a7"
+      }
+    }
+  ],
+  "__v": 8,
+  "block2": [
+    {
+      "status": "active",
+      "blog_name": "feature1",
+      "title": "Important to eat fruit",
+      "content": "Eating fruit provides health benefits — people who eat more fruits and vegetables as part of an overall healthy diet are likely to have a reduced risk of some chronic diseases. Fruits provide nutrients vital for health and maintenance of your body.Fruits are sources of many essential nutrients that are underconsumed, including potassium, dietary fiber, vitamin C, and folate (folic acid).Most fruits are naturally low in fat, sodium, and calories. None have cholesterol.",
+      "images": {
+        "name": "images-1659690680465.jpeg",
+        "path": "storage/public/images/Slider/images-1659690680465.jpeg"
+      },
+      "created_at": {
+        "$date": {
+          "$numberLong": "1659690680471"
+        }
+      },
+      "updated_at": {
+        "$date": {
+          "$numberLong": "1659690680471"
+        }
+      },
+      "_id": {
+        "$oid": "62ecdeb8e33b503a958bc659"
+      }
+    }
+  ]
+}]

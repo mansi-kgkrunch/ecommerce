@@ -1,0 +1,1652 @@
+[{
+  "_id": {
+    "$oid": "62cd3ed755a7bb42f2164a90"
+  },
+  "category_id": {
+    "$oid": "62cd312755a7bb42f2164a5a"
+  },
+  "subcategory_id": {
+    "$oid": "62cd3b7c55a7bb42f2164a76"
+  },
+  "product_name": "Kale",
+  "status": "active",
+  "brand": "",
+  "description": "Kale is considered one of the most nutrient-dense vegetables on the planet due to its many vitamins, minerals and antioxidants.",
+  "color": "green",
+  "weight": "67 grams",
+  "price": 5,
+  "sku": "Kale-10",
+  "quantity": 41,
+  "product_images": [
+    {
+      "name": "product_images-1658898018272-422776391.jpeg",
+      "path": "storage/public/images/product/product_images-1658898018272-422776391.jpeg",
+      "_id": {
+        "$oid": "62e0c6624e21af85e55ec742"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657618135278"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1659682947123"
+    }
+  },
+  "__v": 15,
+  "slug_name": "kale"
+},{
+  "_id": {
+    "$oid": "62cd406e55a7bb42f2164a9c"
+  },
+  "category_id": {
+    "$oid": "62cd312755a7bb42f2164a5a"
+  },
+  "subcategory_id": {
+    "$oid": "62cd3b7c55a7bb42f2164a76"
+  },
+  "product_name": "collard greens",
+  "status": "active",
+  "brand": "",
+  "description": "Collard greens are loose leaf greens, related to kale and spring greens. They have thick leaves that taste slightly bitter.",
+  "color": "green",
+  "weight": "1 kg",
+  "price": 9,
+  "sku": "Collard-greens-30",
+  "quantity": 9,
+  "product_images": [
+    {
+      "name": "product_images-1658898092072-513616874.jpeg",
+      "path": "storage/public/images/product/product_images-1658898092072-513616874.jpeg",
+      "_id": {
+        "$oid": "62e0c6ac9939de60676083db"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657618542768"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658898092083"
+    }
+  },
+  "__v": 4,
+  "slug_name": "collard-greens"
+},{
+  "_id": {
+    "$oid": "62cd40db55a7bb42f2164aa2"
+  },
+  "category_id": {
+    "$oid": "62cd312755a7bb42f2164a5a"
+  },
+  "subcategory_id": {
+    "$oid": "62cd3b7c55a7bb42f2164a76"
+  },
+  "product_name": "Spinach",
+  "status": "active",
+  "brand": "",
+  "description": "Spinach is a popular leafy green vegetable and is easily incorporated into a variety of dishes, including soups, sauces, smoothies and salads.",
+  "color": "green",
+  "weight": "1 kg",
+  "price": 6,
+  "sku": "Spinach-56",
+  "quantity": 13,
+  "product_images": [
+    {
+      "name": "product_images-1658898120289-848048758.jpeg",
+      "path": "storage/public/images/product/product_images-1658898120289-848048758.jpeg",
+      "_id": {
+        "$oid": "62e0c6c82d00a91633ddb2e7"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657618651042"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658898135088"
+    }
+  },
+  "__v": 14,
+  "slug_name": "spinach"
+},{
+  "_id": {
+    "$oid": "62cd417055a7bb42f2164aa8"
+  },
+  "category_id": {
+    "$oid": "62cd312755a7bb42f2164a5a"
+  },
+  "subcategory_id": {
+    "$oid": "62cd3b7c55a7bb42f2164a76"
+  },
+  "product_name": "Cabbage",
+  "status": "active",
+  "brand": "",
+  "description": "Cabbage is formed of clusters of thick leaves that come in green, white and purple colors.",
+  "color": "green",
+  "weight": "1 kg",
+  "price": 12,
+  "sku": "Cabbage-60",
+  "quantity": 12,
+  "product_images": [
+    {
+      "name": "product_images-1658898144155-116561524.jpeg",
+      "path": "storage/public/images/product/product_images-1658898144155-116561524.jpeg",
+      "_id": {
+        "$oid": "62e0c6e043854445c9bec301"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657618800482"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658898144161"
+    }
+  },
+  "__v": 8,
+  "slug_name": "cabbage"
+},{
+  "_id": {
+    "$oid": "62ce4a33f929401678f1614a"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62ce4833f929401678f16134"
+  },
+  "product_name": "Blueberries",
+  "status": "active",
+  "brand": "",
+  "description": "Anthocyanins from blueberries may reduce oxidative stress, lowering the risk of heart disease in both healthy people and those at high risk for the condition",
+  "color": "blue",
+  "weight": "1 kg",
+  "price": 10,
+  "sku": "Blueberries123",
+  "quantity": 43,
+  "product_images": [
+    {
+      "name": "product_images-1658898189254-278555400.jpeg",
+      "path": "storage/public/images/product/product_images-1658898189254-278555400.jpeg",
+      "_id": {
+        "$oid": "62e0c70d553c4c48b2ce6115"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657686579799"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658898189264"
+    }
+  },
+  "__v": 4,
+  "slug_name": "blueberries"
+},{
+  "_id": {
+    "$oid": "62ce4acdf929401678f16151"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62ce4833f929401678f16134"
+  },
+  "product_name": "Raspberries",
+  "status": "active",
+  "brand": "",
+  "description": "One study showed that when cyclists consumed a drink containing raspberries and other berries, oxidative stress caused by exercise decreased significantly",
+  "color": "red",
+  "weight": "1 kg",
+  "price": 8,
+  "sku": "Raspberries1232",
+  "quantity": 43,
+  "product_images": [
+    {
+      "name": "product_images-1658898228699-201832660.jpeg",
+      "path": "storage/public/images/product/product_images-1658898228699-201832660.jpeg",
+      "_id": {
+        "$oid": "62e0c73413332aa005dac889"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657686733014"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658898228714"
+    }
+  },
+  "__v": 4,
+  "slug_name": "raspberries"
+},{
+  "_id": {
+    "$oid": "62ce4ba4f929401678f16158"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62ce4833f929401678f16134"
+  },
+  "product_name": "goji berries",
+  "status": "active",
+  "brand": "",
+  "description": "Goji berries also contain high levels of vitamin A and zeaxanthin, both of which are important for eye health.",
+  "color": "red",
+  "weight": "1 kg",
+  "price": 9,
+  "sku": "Goji berries12",
+  "quantity": 43,
+  "product_images": [
+    {
+      "name": "product_images-1658898606603-649718251.jpeg",
+      "path": "storage/public/images/product/product_images-1658898606603-649718251.jpeg",
+      "_id": {
+        "$oid": "62e0c8ae0c2a9bbeb9d4d75f"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657686948202"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658898606609"
+    }
+  },
+  "__v": 6,
+  "slug_name": "goji-berries"
+},{
+  "_id": {
+    "$oid": "62ce4c43f929401678f1615f"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62ce4833f929401678f16134"
+  },
+  "product_name": "Strawberries",
+  "status": "active",
+  "brand": "",
+  "description": "Strawberries are good for heart health. In fact, a study of more than 93,000 women found that those who ate more than 3 servings of strawberries and blueberries per week had over a 30% lower risk of heart attack",
+  "color": "red",
+  "weight": "1 kg",
+  "price": 6,
+  "sku": "Strawberries3434",
+  "quantity": 43,
+  "product_images": [
+    {
+      "name": "product_images-1658898339339-401244030.jpeg",
+      "path": "storage/public/images/product/product_images-1658898339339-401244030.jpeg",
+      "_id": {
+        "$oid": "62e0c7a31358b98d2f729a49"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657687107233"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658898339359"
+    }
+  },
+  "__v": 4,
+  "slug_name": "strawberries"
+},{
+  "_id": {
+    "$oid": "62ce4d1df929401678f16166"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62ce4833f929401678f16134"
+  },
+  "product_name": "Bilberries",
+  "status": "active",
+  "brand": "",
+  "description": "Bilberries are very similar to blueberries, so the two are often confused. Bilberries are native to Europe, whereas blueberries are native to North America.",
+  "color": "blue",
+  "weight": "1 kg",
+  "price": 6,
+  "sku": "Bilberries3434",
+  "quantity": 43,
+  "product_images": [
+    {
+      "name": "product_images-1658898371045-722624502.jpeg",
+      "path": "storage/public/images/product/product_images-1658898371045-722624502.jpeg",
+      "_id": {
+        "$oid": "62e0c7c31358b98d2f729a51"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657687325017"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658898371058"
+    }
+  },
+  "__v": 8,
+  "slug_name": "bilberries"
+},{
+  "_id": {
+    "$oid": "62ce4deff929401678f1616d"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62ce4833f929401678f16134"
+  },
+  "product_name": "Açaí berries",
+  "status": "active",
+  "brand": "",
+  "description": "Açaí berries grow on açaíi palm trees native to the Brazilian Amazon region. They have become popular health food supplements because of their high antioxidant content.",
+  "color": "red",
+  "weight": "1 kg",
+  "price": 10,
+  "sku": "Açaí berries3434",
+  "quantity": 43,
+  "product_images": [
+    {
+      "name": "product_images-1658898414800-381295315.jpeg",
+      "path": "storage/public/images/product/product_images-1658898414800-381295315.jpeg",
+      "_id": {
+        "$oid": "62e0c7ee942fc989a7c40fea"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657687535788"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1659348233621"
+    }
+  },
+  "__v": 6,
+  "slug_name": "acai-berries"
+},{
+  "_id": {
+    "$oid": "62ce4f1df929401678f161a7"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62ce4833f929401678f16134"
+  },
+  "product_name": "Cranberries",
+  "status": "active",
+  "brand": "",
+  "description": "Cranberries are an extremely healthy fruit with a tart taste. That’s why they’re rarely eaten raw. Instead, they are commonly consumed as juice or as cranberry sauce.",
+  "color": "red",
+  "weight": "1 kg",
+  "price": 7,
+  "sku": "Cranberries",
+  "quantity": 2,
+  "product_images": [
+    {
+      "name": "product_images-1658898560626-965009479.jpeg",
+      "path": "storage/public/images/product/product_images-1658898560626-965009479.jpeg",
+      "_id": {
+        "$oid": "62e0c8803ea70f112e1313bb"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657687837735"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658898560637"
+    }
+  },
+  "__v": 4,
+  "slug_name": "cranberries"
+},{
+  "_id": {
+    "$oid": "62ce50477c2b54252a4edb7b"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62ce4833f929401678f16134"
+  },
+  "product_name": "Grapes",
+  "status": "active",
+  "brand": "",
+  "description": "Cranberries are an extremely healthy fruit with a tart taste. That’s why they’re rarely eaten raw. Instead, they are commonly consumed as juice or as cranberry sauce.",
+  "color": "red ,blue,green",
+  "weight": "1 kg",
+  "price": 17,
+  "sku": "Grapes123",
+  "quantity": 9,
+  "product_images": [
+    {
+      "name": "product_images-1658898651972-471182589.jpeg",
+      "path": "storage/public/images/product/product_images-1658898651972-471182589.jpeg",
+      "_id": {
+        "$oid": "62e0c8db0c2a9bbeb9d4d766"
+      }
+    },
+    {
+      "name": "product_images-1658898651973-28853637.jpeg",
+      "path": "storage/public/images/product/product_images-1658898651973-28853637.jpeg",
+      "_id": {
+        "$oid": "62e0c8db0c2a9bbeb9d4d767"
+      }
+    },
+    {
+      "name": "product_images-1658898651973-684475638.jpeg",
+      "path": "storage/public/images/product/product_images-1658898651973-684475638.jpeg",
+      "_id": {
+        "$oid": "62e0c8db0c2a9bbeb9d4d768"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657688135626"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658898651987"
+    }
+  },
+  "__v": 8,
+  "slug_name": "grapes"
+},{
+  "_id": {
+    "$oid": "62ce51767c2b54252a4edb9a"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62ce4872f929401678f16138"
+  },
+  "product_name": "Apples",
+  "status": "active",
+  "brand": "",
+  "description": "The Greek myth of the golden apples of the Hesperides; stealing this immortality-granting fruit was one of the labors of Hercules.\r\nAnother Greek myth, the story of the judgment of Paris, in which a golden apple causes war amongst the gods and, eventually, humans",
+  "color": "red , green",
+  "weight": "1 kg",
+  "price": 12,
+  "sku": "apples12",
+  "quantity": 6,
+  "product_images": [
+    {
+      "name": "product_images-1658898909248-268369481.jpeg",
+      "path": "storage/public/images/product/product_images-1658898909248-268369481.jpeg",
+      "_id": {
+        "$oid": "62e0c9dda62815bf219ec093"
+      }
+    },
+    {
+      "name": "product_images-1658898920971-718179754.jpeg",
+      "path": "storage/public/images/product/product_images-1658898920971-718179754.jpeg",
+      "_id": {
+        "$oid": "62e0c9e8a62815bf219ec099"
+      }
+    },
+    {
+      "name": "product_images-1658898920971-477264349.jpeg",
+      "path": "storage/public/images/product/product_images-1658898920971-477264349.jpeg",
+      "_id": {
+        "$oid": "62e0c9e8a62815bf219ec09a"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657688438669"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658898920976"
+    }
+  },
+  "__v": 10,
+  "slug_name": "apples"
+},{
+  "_id": {
+    "$oid": "62ce52017c2b54252a4edba2"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62ce4872f929401678f16138"
+  },
+  "product_name": "Pears",
+  "status": "active",
+  "brand": "",
+  "description": "Sweet and juicy, pears have softer flesh than apples. Like apples, there are thousands of varieties of pear.",
+  "color": "green",
+  "weight": "1 kg",
+  "price": 9,
+  "sku": "Pears12",
+  "quantity": 12,
+  "product_images": [
+    {
+      "name": "product_images-1658898839744-259239433.jpeg",
+      "path": "storage/public/images/product/product_images-1658898839744-259239433.jpeg",
+      "_id": {
+        "$oid": "62e0c9979b6f6446c86e05f9"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657688577048"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658898839756"
+    }
+  },
+  "__v": 4,
+  "slug_name": "pears"
+},{
+  "_id": {
+    "$oid": "62ce522f7c2b54252a4edba8"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62ce4872f929401678f16138"
+  },
+  "product_name": "Quinces",
+  "status": "active",
+  "brand": "",
+  "description": "Sweet and juicy, pears have softer flesh than apples. Like apples, there are thousands of varieties of pear.",
+  "color": "green",
+  "weight": "1 kg",
+  "price": 8,
+  "sku": "Quinces12",
+  "quantity": 12,
+  "product_images": [
+    {
+      "name": "product_images-1658898965324-261041469.jpeg",
+      "path": "storage/public/images/product/product_images-1658898965324-261041469.jpeg",
+      "_id": {
+        "$oid": "62e0ca15a62815bf219ec0a1"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657688623262"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658898965334"
+    }
+  },
+  "__v": 4,
+  "slug_name": "quinces"
+},{
+  "_id": {
+    "$oid": "62ce52637c2b54252a4edbae"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62ce4872f929401678f16138"
+  },
+  "product_name": "Medlars",
+  "status": "active",
+  "brand": "",
+  "description": "Sweet and juicy, pears have softer flesh than apples. Like apples, there are thousands of varieties of pear.",
+  "color": "green",
+  "weight": "1 kg",
+  "price": 7,
+  "sku": "Medlars12",
+  "quantity": 12,
+  "product_images": [
+    {
+      "name": "product_images-1658898998043-91741051.jpeg",
+      "path": "storage/public/images/product/product_images-1658898998043-91741051.jpeg",
+      "_id": {
+        "$oid": "62e0ca36e72521ad9290d162"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657688675895"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658898998061"
+    }
+  },
+  "__v": 4,
+  "slug_name": "medlars"
+},{
+  "_id": {
+    "$oid": "62d24753d2f91bb670a73d60"
+  },
+  "category_id": {
+    "$oid": "62d4f87843b3203add378866"
+  },
+  "subcategory_id": {
+    "$oid": "62d4fe5e43b3203add396ff3"
+  },
+  "product_name": "canola oil",
+  "slug_name": "canola-oil",
+  "status": "active",
+  "brand": "",
+  "description": "Many people have cut canola oil out of their diet due to concerns over its health effects and production methods.",
+  "color": "yellow",
+  "weight": "1 kg",
+  "price": 9,
+  "sku": "1",
+  "quantity": 22,
+  "product_images": [
+    {
+      "name": "product_images-1658899072430-910774384.jpeg",
+      "path": "storage/public/images/product/product_images-1658899072430-910774384.jpeg",
+      "_id": {
+        "$oid": "62e0ca80dd577430e8dd2019"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657947987642"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658899072442"
+    }
+  },
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "62dfb6473af1355fe05b2550"
+  },
+  "category_id": {
+    "$oid": "62cd312755a7bb42f2164a5a"
+  },
+  "subcategory_id": {
+    "$oid": "62cd3c4c55a7bb42f2164a80"
+  },
+  "product_name": "Potato",
+  "slug_name": "potato",
+  "status": "active",
+  "brand": "",
+  "description": "potatoes are nutrient-rich root vegetables. It is a very common vegetable for humans for their daily diet. It is rich in starch, carbohydrates, proteins, minerals, and various vitamins",
+  "color": "yellow",
+  "weight": "1 kg",
+  "price": 10,
+  "sku": "potatoes343",
+  "quantity": 10,
+  "product_images": [
+    {
+      "name": "product_images-1658899186262-583751235.jpeg",
+      "path": "storage/public/images/product/product_images-1658899186262-583751235.jpeg",
+      "_id": {
+        "$oid": "62e0caf2d474861347cdffeb"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658828359986"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658899186272"
+    }
+  },
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "62dfb6c53af1355fe05b2565"
+  },
+  "category_id": {
+    "$oid": "62cd312755a7bb42f2164a5a"
+  },
+  "subcategory_id": {
+    "$oid": "62cd3c4c55a7bb42f2164a80"
+  },
+  "product_name": "Radish",
+  "slug_name": "radish",
+  "status": "active",
+  "brand": "",
+  "description": "Radish is an edible, small root nutritional vegetable mostly used to make dishes, salads, and other crunchy meals or snacks.",
+  "color": "red",
+  "weight": "1 kg",
+  "price": 12,
+  "sku": "Radish23",
+  "quantity": 13,
+  "product_images": [
+    {
+      "name": "product_images-1658899444946-714085451.jpeg",
+      "path": "storage/public/images/product/product_images-1658899444946-714085451.jpeg",
+      "_id": {
+        "$oid": "62e0cbf4d474861347cdfff2"
+      }
+    },
+    {
+      "name": "product_images-1658899444947-277220058.jpeg",
+      "path": "storage/public/images/product/product_images-1658899444947-277220058.jpeg",
+      "_id": {
+        "$oid": "62e0cbf4d474861347cdfff3"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658828485769"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658899444960"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "62dfb7563af1355fe05b256e"
+  },
+  "category_id": {
+    "$oid": "62cd312755a7bb42f2164a5a"
+  },
+  "subcategory_id": {
+    "$oid": "62cd3c4c55a7bb42f2164a80"
+  },
+  "product_name": "Sweet potato",
+  "slug_name": "sweet-potato",
+  "status": "active",
+  "brand": "",
+  "description": "The sweet potato belongs to the family Convolvulaceae. It is rich in starch tuberous root vegetables with a sweet-tasting",
+  "color": "red",
+  "weight": "1 kg",
+  "price": 8,
+  "sku": "SweetPotato-3",
+  "quantity": 12,
+  "product_images": [
+    {
+      "name": "product_images-1658899483740-189186899.jpeg",
+      "path": "storage/public/images/product/product_images-1658899483740-189186899.jpeg",
+      "_id": {
+        "$oid": "62e0cc1bdcf1f744a6748e6e"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658828630791"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658899483752"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "62dfb7b13af1355fe05b2574"
+  },
+  "category_id": {
+    "$oid": "62cd312755a7bb42f2164a5a"
+  },
+  "subcategory_id": {
+    "$oid": "62cd3c4c55a7bb42f2164a80"
+  },
+  "product_name": "Onion",
+  "slug_name": "onion",
+  "status": "active",
+  "brand": "",
+  "description": "Onions are a very good antioxidant food that helps to reduce the risk of cancers and blood sugar levels of the body.",
+  "color": "red",
+  "weight": "1 kg",
+  "price": 13,
+  "sku": "Onion32",
+  "quantity": 4,
+  "product_images": [
+    {
+      "name": "product_images-1658899542566-383164542.jpeg",
+      "path": "storage/public/images/product/product_images-1658899542566-383164542.jpeg",
+      "_id": {
+        "$oid": "62e0cc5690ac7a80823a6ec0"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658828721446"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658899542577"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "62dfb83b3af1355fe05b257c"
+  },
+  "category_id": {
+    "$oid": "62cd312755a7bb42f2164a5a"
+  },
+  "subcategory_id": {
+    "$oid": "62cd3c4c55a7bb42f2164a80"
+  },
+  "product_name": "Beetroot",
+  "slug_name": "beetroot",
+  "status": "active",
+  "brand": "",
+  "description": "Beetroots are one of the most nutritious root vegetables with plenty of fiber, manganese, and folate",
+  "color": "red",
+  "weight": "1 kg",
+  "price": 16,
+  "sku": "Beetroot-89",
+  "quantity": 43,
+  "product_images": [
+    {
+      "name": "product_images-1658899592613-694991778.jpeg",
+      "path": "storage/public/images/product/product_images-1658899592613-694991778.jpeg",
+      "_id": {
+        "$oid": "62e0cc8805c55d330de6b0bc"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658828859814"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658899592627"
+    }
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "62dfb8953af1355fe05b2585"
+  },
+  "category_id": {
+    "$oid": "62cd312755a7bb42f2164a5a"
+  },
+  "subcategory_id": {
+    "$oid": "62cd3c4c55a7bb42f2164a80"
+  },
+  "product_name": "Carrot",
+  "slug_name": "carrot",
+  "status": "active",
+  "brand": "",
+  "description": "The carrots are one of the most well-known, delicious, very effective, nutritious root vegetables.",
+  "color": "orange",
+  "weight": "1 kg",
+  "price": 13,
+  "sku": "Carrot-80",
+  "quantity": 34,
+  "product_images": [
+    {
+      "name": "product_images-1658899618516-128882225.jpeg",
+      "path": "storage/public/images/product/product_images-1658899618516-128882225.jpeg",
+      "_id": {
+        "$oid": "62e0cca223b401afd11fda94"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658828949652"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658899618528"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "62dfb8eb3af1355fe05b258d"
+  },
+  "category_id": {
+    "$oid": "62cd312755a7bb42f2164a5a"
+  },
+  "subcategory_id": {
+    "$oid": "62cd3c4c55a7bb42f2164a80"
+  },
+  "product_name": "Turmeric",
+  "slug_name": "turmeric",
+  "status": "active",
+  "brand": "",
+  "description": "Turmeric is a type of root vegetable belonging to the family of ginger cardamom. The rhizomes or roots of this plant are mostly served as a spice that adds color and flavor to various cooking dishes",
+  "color": "yellow",
+  "weight": "1 kg",
+  "price": 19,
+  "sku": "Turmeric-81",
+  "quantity": 22,
+  "product_images": [
+    {
+      "name": "product_images-1658899669476-196714391.jpeg",
+      "path": "storage/public/images/product/product_images-1658899669476-196714391.jpeg",
+      "_id": {
+        "$oid": "62e0ccd5b3b3bef9df3d78ad"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658829035880"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658899669488"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "62dfb9303af1355fe05b2593"
+  },
+  "category_id": {
+    "$oid": "62cd312755a7bb42f2164a5a"
+  },
+  "subcategory_id": {
+    "$oid": "62cd3c4c55a7bb42f2164a80"
+  },
+  "product_name": "Ginger",
+  "slug_name": "ginger",
+  "status": "active",
+  "brand": "",
+  "description": "inger is a flowering plant, and its root is a fleshy portion called ginger-like turmeric, which is used in cooking food as a spice to add some delicious flavors",
+  "color": "yellow",
+  "weight": "1 kg",
+  "price": 14,
+  "sku": "Ginger-82",
+  "quantity": 23,
+  "product_images": [
+    {
+      "name": "product_images-1658899719749-156020964.jpeg",
+      "path": "storage/public/images/product/product_images-1658899719749-156020964.jpeg",
+      "_id": {
+        "$oid": "62e0cd071f7d1a6e60aa26c5"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658829104478"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658899719760"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "62dfb9723af1355fe05b259b"
+  },
+  "category_id": {
+    "$oid": "62cd312755a7bb42f2164a5a"
+  },
+  "subcategory_id": {
+    "$oid": "62cd3c4c55a7bb42f2164a80"
+  },
+  "product_name": "Garlic",
+  "slug_name": "garlic",
+  "status": "active",
+  "brand": "",
+  "description": "Ginger is a flowering plant, and its root is a fleshy portion called ginger-like turmeric, which is used in cooking food as a spice to add some delicious flavors.",
+  "color": "white",
+  "weight": "1 kg",
+  "price": 15,
+  "sku": "Garlic-83",
+  "quantity": 14,
+  "product_images": [
+    {
+      "name": "product_images-1658899748701-682616178.jpeg",
+      "path": "storage/public/images/product/product_images-1658899748701-682616178.jpeg",
+      "_id": {
+        "$oid": "62e0cd244beb48b09fe670ff"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658829170227"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658899748715"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "62dfba003af1355fe05b25a3"
+  },
+  "category_id": {
+    "$oid": "62cd312755a7bb42f2164a5a"
+  },
+  "subcategory_id": {
+    "$oid": "62cd3c4c55a7bb42f2164a80"
+  },
+  "product_name": "Celery root",
+  "slug_name": "celery-root",
+  "status": "active",
+  "brand": "",
+  "description": "Ginger is a flowering plant, and its root is a fleshy portion called ginger-like turmeric, which is used in cooking food as a spice to add some delicious flavors.",
+  "color": "brown",
+  "weight": "1 kg",
+  "price": 10,
+  "sku": "CeleryRoot-84",
+  "quantity": 5,
+  "product_images": [
+    {
+      "name": "product_images-1658899865008-410435933.jpeg",
+      "path": "storage/public/images/product/product_images-1658899865008-410435933.jpeg",
+      "_id": {
+        "$oid": "62e0cd9920b0321ce99ed874"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658829312835"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658899865026"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "62dfba953af1355fe05b25a9"
+  },
+  "category_id": {
+    "$oid": "62cd312755a7bb42f2164a5a"
+  },
+  "subcategory_id": {
+    "$oid": "62cd3c4c55a7bb42f2164a80"
+  },
+  "product_name": "Water Chestnut",
+  "slug_name": "water-chestnut",
+  "status": "active",
+  "brand": "",
+  "description": "The water chestnut is also called the Chinese water chestnut.",
+  "color": "brown",
+  "weight": "1 kg",
+  "price": 18,
+  "sku": "Water-Chestnut-84",
+  "quantity": 10,
+  "product_images": [
+    {
+      "name": "product_images-1658899911691-597946830.jpeg",
+      "path": "storage/public/images/product/product_images-1658899911691-597946830.jpeg",
+      "_id": {
+        "$oid": "62e0cdc748e76c9afbd1d71e"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658829461556"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658899911703"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "62dfc5ba3af1355fe05b263f"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62ce478bf929401678f1611e"
+  },
+  "product_name": "Apricot",
+  "slug_name": "apricot",
+  "status": "active",
+  "brand": "",
+  "description": "An apricot is a fruit, or the tree that bears the fruit, of several species in the genus Prunus. Usually, an apricot is from the species P. armeniaca, but the fruits of the other species in Prunus sect. Armeniaca are also called apricots",
+  "color": "orange",
+  "weight": "1 kg",
+  "price": 19,
+  "sku": "Apricot-45",
+  "quantity": 20,
+  "product_images": [
+    {
+      "name": "product_images-1658900034975-111296504.jpeg",
+      "path": "storage/public/images/product/product_images-1658900034975-111296504.jpeg",
+      "_id": {
+        "$oid": "62e0ce42158fced5479078dd"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658832314669"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658900034988"
+    }
+  },
+  "__v": 6
+},{
+  "_id": {
+    "$oid": "62dfc7cf3af1355fe05b2668"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62ce478bf929401678f1611e"
+  },
+  "product_name": "Avocado",
+  "slug_name": "avocado",
+  "status": "active",
+  "brand": "",
+  "description": "The avocado is a tree originating in the Americas which is likely native to the highland regions of south-central Mexico to Guatemala",
+  "color": "green",
+  "weight": "1 kg",
+  "price": 10,
+  "sku": "Avocado-67",
+  "quantity": 10,
+  "product_images": [
+    {
+      "name": "product_images-1658900065843-965628537.jpeg",
+      "path": "storage/public/images/product/product_images-1658900065843-965628537.jpeg",
+      "_id": {
+        "$oid": "62e0ce6149c7f9c9dfda6eec"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658832847834"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658900065855"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "62dfcb253af1355fe05b2695"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62ce48a6f929401678f1613c"
+  },
+  "product_name": "Orange Juice",
+  "slug_name": "orange-juice",
+  "status": "active",
+  "brand": "",
+  "description": "This is one of the healthiest fruit juices as it offers a wide range of benefits for the skin. Also, regular consumption of orange might improve overall health.",
+  "color": "orange",
+  "weight": "1 kg",
+  "price": 22,
+  "sku": "Orange-Juice10",
+  "quantity": 20,
+  "product_images": [
+    {
+      "name": "product_images-1658900103625-197166153.jpeg",
+      "path": "storage/public/images/product/product_images-1658900103625-197166153.jpeg",
+      "_id": {
+        "$oid": "62e0ce87bb901f5fe83b93f7"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658833701616"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658900103638"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "62dfcb743af1355fe05b269e"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62ce48a6f929401678f1613c"
+  },
+  "product_name": "Black Grape Juice",
+  "slug_name": "black-grape-juice",
+  "status": "active",
+  "brand": "",
+  "description": "This is one of the healthiest fruit juices as it offers a wide range of benefits for the skin. Also, regular consumption of orange might improve overall health.",
+  "color": "black",
+  "weight": "1 kg",
+  "price": 20,
+  "sku": "Black-Grape-Juice10",
+  "quantity": 20,
+  "product_images": [
+    {
+      "name": "product_images-1658900127831-807205209.jpeg",
+      "path": "storage/public/images/product/product_images-1658900127831-807205209.jpeg",
+      "_id": {
+        "$oid": "62e0ce9f5a36e23e45011f15"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658833780752"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658900127841"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "62dfcc363af1355fe05b26b8"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62d5016843b3203add39701d"
+  },
+  "product_name": "Amla Juice",
+  "slug_name": "amla-juice",
+  "status": "active",
+  "brand": "",
+  "description": "Indians have known about the health benefits of Amla for a very long time. It is widely considered to have various ayurvedic properties and is rich in Vitamin C as well.",
+  "color": "green",
+  "weight": "1 kg",
+  "price": 14,
+  "sku": "Amla-Juice11",
+  "quantity": 17,
+  "product_images": [
+    {
+      "name": "product_images-1658900171290-95223313.jpeg",
+      "path": "storage/public/images/product/product_images-1658900171290-95223313.jpeg",
+      "_id": {
+        "$oid": "62e0cecb172cc6ad6f32ffda"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658833974301"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658900171302"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "62dfcc883af1355fe05b26c1"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62ce48a6f929401678f1613c"
+  },
+  "product_name": "Pomegranate Juice",
+  "slug_name": "pomegranate-juice",
+  "status": "active",
+  "brand": "",
+  "description": "Here is a fruit that is used in making desserts, jams, syrups, and other flavored foods. No wonder the health benefits of pomegranate juice makes it one of the healthiest fruit juices.",
+  "color": "green",
+  "weight": "1 kg",
+  "price": 14,
+  "sku": "Pomegranate-Juice12",
+  "quantity": 17,
+  "product_images": [
+    {
+      "name": "product_images-1658902564385-407738859.jpeg",
+      "path": "storage/public/images/product/product_images-1658902564385-407738859.jpeg",
+      "_id": {
+        "$oid": "62e0d824722bf7f92b2fe552"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658834056238"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658902564404"
+    }
+  },
+  "__v": 12
+},{
+  "_id": {
+    "$oid": "62dfccef3af1355fe05b26ca"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62ce48a6f929401678f1613c"
+  },
+  "product_name": "Pineapple Juice",
+  "slug_name": "pineapple-juice",
+  "status": "active",
+  "brand": "",
+  "description": "Pineapple offers a wide variety of vitamins, nutrients and it may help boost immunity as well. This juice is also low in calories and helps improve digestion. So, if you are aiming to lose some inches, this juice is excellent for you!",
+  "color": "red",
+  "weight": "1 kg",
+  "price": 18,
+  "sku": "Pineapple-Juice12",
+  "quantity": 15,
+  "product_images": [
+    {
+      "name": "product_images-1658900575742-409761210.jpeg",
+      "path": "storage/public/images/product/product_images-1658900575742-409761210.jpeg",
+      "_id": {
+        "$oid": "62e0d05f38f42a52ff529228"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658834159397"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658900575753"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "62dfcda23af1355fe05b26d6"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62ce48a6f929401678f1613c"
+  },
+  "product_name": "Cranberry Juice",
+  "slug_name": "cranberry-juice",
+  "status": "active",
+  "brand": "",
+  "description": "Cranberries are one of the most popular superfoods as they contain various anti-bacterial and antioxidant properties. This juice offers various health benefits and might improve your digestive health too.",
+  "color": "red",
+  "weight": "1 kg",
+  "price": 25,
+  "sku": "Cranberry-Juice12",
+  "quantity": 20,
+  "product_images": [
+    {
+      "name": "product_images-1658900643859-433626312.jpeg",
+      "path": "storage/public/images/product/product_images-1658900643859-433626312.jpeg",
+      "_id": {
+        "$oid": "62e0d0a3dc11db667a241dd6"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658834338343"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658900643877"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "62dfce2f3af1355fe05b26df"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62ce48a6f929401678f1613c"
+  },
+  "product_name": "Apple Juice",
+  "slug_name": "apple-juice",
+  "status": "active",
+  "brand": "",
+  "description": "An apple a day keeps the doctor away. Well, this is true for apple juice as well. Yes, this healthy fruit juice is known to offer several benefits for the face, skin, and body.",
+  "color": "yellow",
+  "weight": "1 kg",
+  "price": 23,
+  "sku": "Apple-Juice12",
+  "quantity": 20,
+  "product_images": [
+    {
+      "name": "product_images-1658900704835-711639132.jpeg",
+      "path": "storage/public/images/product/product_images-1658900704835-711639132.jpeg",
+      "_id": {
+        "$oid": "62e0d0e0d65c78cb7f1f255e"
+      }
+    },
+    {
+      "name": "product_images-1658900704835-736349950.jpeg",
+      "path": "storage/public/images/product/product_images-1658900704835-736349950.jpeg",
+      "_id": {
+        "$oid": "62e0d0e0d65c78cb7f1f255f"
+      }
+    },
+    {
+      "name": "product_images-1658900704836-953482746.jpeg",
+      "path": "storage/public/images/product/product_images-1658900704836-953482746.jpeg",
+      "_id": {
+        "$oid": "62e0d0e0d65c78cb7f1f2560"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658834479448"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658900704848"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "62dfce933af1355fe05b26e8"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62ce48a6f929401678f1613c"
+  },
+  "product_name": "Watermelon Juice",
+  "slug_name": "watermelon-juice",
+  "status": "active",
+  "brand": "",
+  "description": "The delicious taste of watermelon makes it a favorite of almost everyone. It keeps you hydrated and can even protect the body from free radicals. Watermelon is an ideal source of Vitamin C, A, and other essential nutrients. Therefore, watermelon juice has abundant health benefits.",
+  "color": "red",
+  "weight": "1 kg",
+  "price": 19,
+  "sku": "Watermelon-Juice12",
+  "quantity": 20,
+  "product_images": [
+    {
+      "name": "product_images-1658900742674-326432511.jpeg",
+      "path": "storage/public/images/product/product_images-1658900742674-326432511.jpeg",
+      "_id": {
+        "$oid": "62e0d106c55e51f0abb43180"
+      }
+    },
+    {
+      "name": "product_images-1658900742675-125556085.jpeg",
+      "path": "storage/public/images/product/product_images-1658900742675-125556085.jpeg",
+      "_id": {
+        "$oid": "62e0d106c55e51f0abb43181"
+      }
+    },
+    {
+      "name": "product_images-1658900742675-171434444.jpeg",
+      "path": "storage/public/images/product/product_images-1658900742675-171434444.jpeg",
+      "_id": {
+        "$oid": "62e0d106c55e51f0abb43182"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658834579860"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658900742688"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "62dfd9063af1355fe05b278f"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_id": {
+    "$oid": "62ce48a6f929401678f1613c"
+  },
+  "product_name": "Musk Melon Juice",
+  "slug_name": "musk-melon-juice",
+  "status": "active",
+  "brand": "",
+  "description": "Just like watermelon, this fruit is also widely known for its high water content. Musk melon contains various antioxidants and has a high content of fiber as well.",
+  "color": "yellow",
+  "weight": "1 kg",
+  "price": 20,
+  "sku": "Musk-Melon-Juice12",
+  "quantity": 19,
+  "product_images": [
+    {
+      "name": "product_images-1658900797523-49770113.jpeg",
+      "path": "storage/public/images/product/product_images-1658900797523-49770113.jpeg",
+      "_id": {
+        "$oid": "62e0d13da986aa458d85c6fb"
+      }
+    },
+    {
+      "name": "product_images-1658900797523-636707684.jpeg",
+      "path": "storage/public/images/product/product_images-1658900797523-636707684.jpeg",
+      "_id": {
+        "$oid": "62e0d13da986aa458d85c6fc"
+      }
+    },
+    {
+      "name": "product_images-1658900797524-73646633.jpeg",
+      "path": "storage/public/images/product/product_images-1658900797524-73646633.jpeg",
+      "_id": {
+        "$oid": "62e0d13da986aa458d85c6fd"
+      }
+    },
+    {
+      "name": "product_images-1659069754859-607321910.jpeg",
+      "path": "storage/public/images/product/product_images-1659069754859-607321910.jpeg",
+      "_id": {
+        "$oid": "62e3653a14cdc923ef2955eb"
+      }
+    },
+    {
+      "name": "product_images-1659069754860-219898163.jpeg",
+      "path": "storage/public/images/product/product_images-1659069754860-219898163.jpeg",
+      "_id": {
+        "$oid": "62e3653a14cdc923ef2955ec"
+      }
+    }
+  ],
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658837254036"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1659071337269"
+    }
+  },
+  "__v": 7
+}]

@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "62cd3b7c55a7bb42f2164a76"
+  },
+  "category_id": {
+    "$oid": "62cd312755a7bb42f2164a5a"
+  },
+  "subcategory_name": "green vagetables",
+  "subcategory_images": {
+    "name": "subcategory_images-1658900832129.jpeg",
+    "path": "storage/public/images/subcategory/subcategory_images-1658900832129.jpeg"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657617276905"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658900832142"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62cd3c4c55a7bb42f2164a80"
+  },
+  "category_id": {
+    "$oid": "62cd312755a7bb42f2164a5a"
+  },
+  "subcategory_name": "root vagetables",
+  "subcategory_images": {
+    "name": "subcategory_images-1659682773393.jpeg",
+    "path": "storage/public/images/subcategory/subcategory_images-1659682773393.jpeg"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657617484713"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1659682773397"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ce478bf929401678f1611e"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_name": "Drupes",
+  "subcategory_images": {
+    "name": "subcategory_images-1658900847947.jpeg",
+    "path": "storage/public/images/subcategory/subcategory_images-1658900847947.jpeg"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657685899349"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658900847953"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ce4833f929401678f16134"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_name": "berries",
+  "subcategory_images": {
+    "name": "subcategory_images-1658900855705.jpeg",
+    "path": "storage/public/images/subcategory/subcategory_images-1658900855705.jpeg"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657686067111"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658900855712"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ce4872f929401678f16138"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_name": "Pomes",
+  "subcategory_images": {
+    "name": "subcategory_images-1658900863634.jpeg",
+    "path": "storage/public/images/subcategory/subcategory_images-1658900863634.jpeg"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657686130657"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658900863639"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ce48a6f929401678f1613c"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_name": "juice",
+  "subcategory_images": {
+    "name": "subcategory_images-1658900880805.jpeg",
+    "path": "storage/public/images/subcategory/subcategory_images-1658900880805.jpeg"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657686182383"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658900880810"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d4fb5543b3203add38bd12"
+  },
+  "category_id": {
+    "$oid": "62d4fa6243b3203add384647"
+  },
+  "subcategory_name": " Dried",
+  "subcategory_images": {
+    "name": "subcategory_images-1659679879794.png",
+    "path": "storage/public/images/subcategory/subcategory_images-1659679879794.png"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658125141796"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1659679879810"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d4fe5e43b3203add396ff3"
+  },
+  "category_id": {
+    "$oid": "62d4f87843b3203add378866"
+  },
+  "subcategory_name": "Heart-healthy oils",
+  "subcategory_images": {
+    "name": "subcategory_images-1658900905758.jpeg",
+    "path": "storage/public/images/subcategory/subcategory_images-1658900905758.jpeg"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658125918400"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658900905776"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d5016843b3203add39701d"
+  },
+  "category_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "subcategory_name": "healthy juice",
+  "subcategory_images": {
+    "name": "subcategory_images-1658900913002.jpeg",
+    "path": "storage/public/images/subcategory/subcategory_images-1658900913002.jpeg"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658126696613"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658900913010"
+    }
+  },
+  "__v": 0
+}]

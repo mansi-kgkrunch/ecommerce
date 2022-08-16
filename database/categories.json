@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "62cd312755a7bb42f2164a5a"
+  },
+  "category_name": "vegetables",
+  "images": {
+    "name": "images-1659682749762.jpeg",
+    "path": "storage/public/images/category/images-1659682749762.jpeg"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657614631752"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1659682749765"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62cd316f55a7bb42f2164a5d"
+  },
+  "category_name": "fruits",
+  "images": {
+    "name": "images-1658897644465.jpeg",
+    "path": "storage/public/images/category/images-1658897644465.jpeg"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657614703177"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658897644494"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d4efe7addf4395d42a7e6b"
+  },
+  "category_name": "Beverages",
+  "images": {
+    "name": "images-1658897711393.jpeg",
+    "path": "storage/public/images/category/images-1658897711393.jpeg"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658122215409"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658897711404"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d4f145addf4395d42a7e74"
+  },
+  "category_name": "Dairy and non-dairy",
+  "images": {
+    "name": "images-1658897668649.jpeg",
+    "path": "storage/public/images/category/images-1658897668649.jpeg"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658122565365"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658897668659"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d4f87843b3203add378866"
+  },
+  "category_name": "oils",
+  "images": {
+    "name": "images-1658897680132.jpeg",
+    "path": "storage/public/images/category/images-1658897680132.jpeg"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658124408437"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658897680138"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d4fa6243b3203add384647"
+  },
+  "category_name": "Dried",
+  "images": {
+    "name": "images-1658897689817.png",
+    "path": "storage/public/images/category/images-1658897689817.png"
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1658124898865"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1658897689841"
+    }
+  },
+  "__v": 0
+}]

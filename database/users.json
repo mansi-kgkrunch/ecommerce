@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "62cd0418c39621159a5a5fd4"
+  },
+  "username": "mansi",
+  "email": "mansi.kgkrunch@gmail.com",
+  "password": "$2b$10$tINbTRKZylyoTsBe93kzSePTBh3as2rNRg5FZnAwWYqpc1aFsGma2",
+  "images": {
+    "name": "images-1659682719874.jpeg",
+    "path": "storage/public/images/user/images-1659682719874.jpeg"
+  },
+  "__v": 8,
+  "createdEvents": [
+    {
+      "$oid": "62f7471c9f80a725a12d8078"
+    },
+    {
+      "$oid": "62f747a47ef92405ccb08ad8"
+    },
+    {
+      "$oid": "62f74db17ef92405ccb08ae3"
+    },
+    {
+      "$oid": "62f74dc47ef92405ccb08aec"
+    },
+    {
+      "$oid": "62f74df47ef92405ccb08af6"
+    },
+    {
+      "$oid": "62f74e677ef92405ccb08b01"
+    },
+    {
+      "$oid": "62f74eaa7ef92405ccb08b0d"
+    },
+    {
+      "$oid": "62f74ec37ef92405ccb08b1a"
+    }
+  ]
+}]
