@@ -13,7 +13,7 @@ import LazyLoader from "./component/LazyLoader";
 
 import Main from './component/Admin/layout'
 import Dashboard from './pages/Admin/Dashboard'
-import User from "./pages/Admin/User";
+import User from "./pages/Admin/User"; 
 import Login from "./pages/Admin/Login";
 import Registration from "./pages/Admin/Registration";
 import Auth from "./pages/Admin/Auth";
